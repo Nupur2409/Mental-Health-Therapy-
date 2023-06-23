@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mentalhealththerapybot-mwcm",
+  "private_key_id": "e3ec90ab10a6dc5c8b8a841fdf5fcc0a6ec324f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH6KdKdF20XRJ4\niQqSM41bK5de0DQxcnpTqfBRTPTdf/zDeWefzY5T7A/mySGkVXUXGTc2aNyehxxE\nW9jab+nMSULLRshZ4VKr6lmnTVPuX13O+LLYakKidWU4CUUx+Qg/w99LS3k+z8HS\nT8YDS1qYm7BVKt2pweSYsLzVO7M3PfCYowyHtgQsUIMemoDittVO272EHc8SzIhl\nd100WalQFvG9NgSL+xpVTEijXoXP3toA+P/PML3YOetG2SG3UwrZPFpb6+W4/GOT\n97OsPrfcyfDLP5XGrEEfoWl7jN0tuZzkmgcJ77sKv2Kk0amUT7k3VU+Nhc2ivNxi\nST2Qrc/dAgMBAAECggEACkcubrgL502PuQ3GstyerGzR1AidXlt16Z5Hok50Gn1N\nmBlCWCd/5VWyPZnitmnEYuMjgRMkIKxuqh8Ux6pQWXX8zqm9fE2G7BrY8C6cHZne\nn1kPDOxtr5+cjCSB379firO948emHLIe03rRgfLaXhVHHCHfkq5K3ATeOJJgtPrN\nZRdcSDSgeDnPmAeCDqud2LN6lRDMxmxLufoWcA0e50fhXDCtFGTyMJdNvfk2BuxI\noQQvApbz7Gn0CtjHz3N5U6CKakEiPyNcxAm828RZQz2Sh0PvWDrZTy8Lv0IsX2qz\nqX86NbOegJB6BnjG0brm3gfbTZhQjp7/GAPoFc+6EQKBgQD6m0dpTTPxQSbnO4sG\npZnnLRafakmZI/ycdPDQ2TD4zVQ8S+l8/+AqFu6PBu9cziQWjszGSpBGUKKsx3fZ\nIL74KOdqEYIZgQrH0YIaMQ/++C0NwkoBCSpFgaCz3qeTT9JO4hjpcRVUgtrj6iuY\n8pkeXl3NIA8TXcvUcPuza9cmmQKBgQDMNg3sk/nzP3llpwgtYDNXfGwXLwj85Wx/\nAfnixJIb8qazdjwPbKY7wrdZ3FVUEyRxEMlDrZSdHBg3VUPUvuZfHNXKR8nUtQeI\n4yDuubuUMKOXHBHpXViJAWPTLqk4RYdXamjTX87zYDJmuYYryuAUhxYGvi3RQb8Z\nQ59bl50x5QKBgQCvDdaVPOOCq6MUNOiJTRYzgLBjzOf6PEQRujIZgQ2PTkaAE/rW\nYRph7EDZ0dtT9X8J7tglzyH2rA7mKDOUjSY4zMHRuscpL5WrPLLnvsvQq+U0zjnJ\nfXB0uvbZjjd6VHCwv4jtUBu5O+rQ99tabGP+7aYSSkmdmpBuJjn7++F/SQKBgG1G\nG4tV37FfbNmNWN3XFYIiDUEWpSuWpMkNyKak4z5bSQLNKPRkAkwGNNC8C1jy6VQr\nVFeHwfeUOg0Z7jMgd+u7ZVdZtNHCkSaZy1yTPKHeqRtKJPeIQMEHYmB2Ho0C/5oy\nUaeSJA6tkirP6dDzPZcedhXjnGbWVKjzO4nqhm5VAoGADKPVF66ABPbq8g6EEIe+\nIfhWqJxuQ+T4n11cAc74YY7A5E02vyI0JdHLsBTjMXGybNHPY+jWzbLDgm3q6tNS\nUkbsKXVahcBfvjLzdwcx2E8bQdLPBh1fDLM78Q4/AfZp2i2Xmjumj0tRaw3yfK7V\nwB5WeXLFSeAJ5GuK4X0hlSw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mhtbot@mentalhealththerapybot-mwcm.iam.gserviceaccount.com",
+  "client_id": "108675208750638907492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mhtbot%40mentalhealththerapybot-mwcm.iam.gserviceaccount.com"
+}
